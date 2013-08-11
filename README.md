@@ -66,4 +66,4 @@ Add another line? (Y/n) n
 ```
 
 ## Useless Trivia
-:information_source:  [gpa-calculator](https://github.com/krmbzds/gpa-calculator) was written while [krmbzds](https://github.com/krmbzds)'s little brother was getting a haircut, and he was bored.
+:information_source: gpa-calculator was written while [krmbzds](https://github.com/krmbzds)'s little brother was getting a haircut, and he was bored.
