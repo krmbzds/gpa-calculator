@@ -9,7 +9,7 @@ Quick & dirty GPA calculator. Saves data into a local sqlite database. Gives pre
 You want to calculate your semester GPA. Shit's messed up because some of your professors didn't enter your grades on time (therefore they're not appearing on your transcript). You know your grades and want to make a quick calculation. You also want to add new grades as they're announced. Then [gpa-calculator](https://github.com/krmbzds/gpa-calculator)'s got you covered.
 
 ## Input Sequence
-
+```
 In [8]: run gpa_calculator.py
 
 No grades database found...
@@ -43,9 +43,9 @@ Semester Hours: 3
 Letter Grade: D
 
 Add another line? (Y/n) n
-
+```
 ## Output
-
+```
 +------------+--------+-------+
 | Class Name | Credit | Grade |
 +------------+--------+-------+
@@ -62,3 +62,4 @@ Add another line? (Y/n) n
 +----------------+--------------+----------------+
 |      47.0      |      15      |      3.14      |
 +----------------+--------------+----------------+
+```
